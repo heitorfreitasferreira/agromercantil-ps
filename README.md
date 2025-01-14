@@ -20,8 +20,8 @@ dados na tabela FIPE antes de salvar.
 
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_REPOSITORIO>
+    git clone https://github.com/heitorfreitasferreira/agromercantil-ps
+    cd agromercantil-ps
     ```
 
 2. Compile o projeto:
