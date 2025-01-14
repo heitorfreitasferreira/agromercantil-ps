@@ -1,4 +1,4 @@
-# Projeto PS
+# Projeto CRUD de caminhões
 
 ## Descrição
 
@@ -7,14 +7,8 @@ dados na tabela FIPE antes de salvar.
 
 ## Pré-requisitos
 
-### Sem docker
-
 - Java 23
 - Maven
-
-### Com docker
-
-- Docker
 
 ## Rodando a aplicação
 
